@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    color: white;
+    background-color: teal;
+}
+a{
+    color: white;
+    background-color: teal;
+}
+.div1{
+    background-color: teal;
+    padding: 20px;
+}
+p{
+    background-color: teal;
+}
+img{
+    height: 350px;
+}
+video{
+    height: 350px;
+    width: 550px;
+}
+.message{
+    height: 50px;
+    width: 700px;
+}
+.div2{
+    background-color: white;
+    padding: 10px;
+    padding-left: 15px;
+}
